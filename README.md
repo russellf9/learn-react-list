@@ -23,6 +23,10 @@ Which basically covers the following steps providing good codepen examples for e
 * Step 5: Add Inverse Data Flow
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 11e373b6c6726315d689502db00ef2029081cbab
 ## Online Learning resources
 
 [Egghead.io](https://egghead.io/) provide a large selection of decent online video tutorials. This a freemium service which has a large number of decent free videos.
@@ -35,6 +39,7 @@ Which basically covers the following steps providing good codepen examples for e
 
 [Fullstack - React](https://www.fullstackreact.com/)
 
+<<<<<<< HEAD
 I purchased this e-book, one the advantage is that the purchase will include free updates for a year which will cover the inevitable breaking changes to React and new version features.
 
 
@@ -45,6 +50,9 @@ There are lots of good resource to help developers get up to speed with ES6.
 [Exploring ES6](http://exploringjs.com/es6/)
 Is an invaluable free online reference. Also, there a few [demo code examples](http://exploringjs.com/es6/ch_about-book.html#_demo-code-on-github) on github.
 
+=======
+I purchased this e-book, one the advantage is that the purchase will include free updates for a year which will cover the inevitable breaking changes to React.
+>>>>>>> 11e373b6c6726315d689502db00ef2029081cbab
 
 ## Tools
 
